@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|c:\\users\\asus\\source\\repos\\ftpuploader\\ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|c:\\users\\asus\\source\\repos\\ftpuploader\\ftpuploader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7207F2-9FD1-45AD-83E3-CA1146BD7EC0}|FTPUploader\\FTPUploader.csproj|C:\\Users\\Asus\\source\\repos\\FTPUploader\\ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB7207F2-9FD1-45AD-83E3-CA1146BD7EC0}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|c:\\users\\asus\\source\\repos\\ftpuploader\\ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|c:\\users\\asus\\source\\repos\\ftpuploader\\ftpuploader\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|c:\\users\\asus\\source\\repos\\ftpuploader\\ftpuploader\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F643C3-30FE-409E-825E-0B41D9A825D1}|FTPUploader\\FTPUploader.csproj|solutionrelative:ftpuploader\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs",
+              "RelativeDocumentMoniker": "FTPUploader\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs [Design]",
+              "RelativeToolTip": "FTPUploader\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T05:13:58.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\appsettings.json",
+              "RelativeDocumentMoniker": "FTPUploader\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\appsettings.json",
+              "RelativeToolTip": "FTPUploader\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T04:29:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\FileService.cs",
+              "RelativeDocumentMoniker": "FTPUploader\\FileService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\FileService.cs",
+              "RelativeToolTip": "FTPUploader\\FileService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:31:49.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs",
+              "RelativeDocumentMoniker": "FTPUploader\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs",
+              "RelativeToolTip": "FTPUploader\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswE0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:52:03.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs",
+              "RelativeDocumentMoniker": "FTPUploader\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.cs [Design]",
+              "RelativeToolTip": "FTPUploader\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:39:46.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FTPUploader\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\FTPUploader\\FTPUploader\\Form1.Designer.cs",
+              "RelativeToolTip": "FTPUploader\\Form1.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAywA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:55:24.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

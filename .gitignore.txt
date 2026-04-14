@@ -1,0 +1,39 @@
+## Visual Studio Ignore Rules
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bbin/
+obj/
+bin/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# App Settings (Optional)
+# Agar aap chahte hain ki aapka password GitHub par na jaye, 
+# toh niche wali line ko uncomment (hata dein #) kar sakte hain.
+# appsettings.json
